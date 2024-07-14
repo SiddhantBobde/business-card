@@ -19,7 +19,7 @@ function App() {
             <div className='profile-info'>
               <h1>Siddhant Bobde</h1>
               <h4>Software Engineer</h4>
-              <a href={'https://siddhantbobde.com/'} target='_blank' rel="noopener noreferrer">siddhantbobde.com</a>
+              <a href={'https://mysite.example/'} target='_blank' rel="noopener noreferrer">mysite.example</a>
             </div>
             <div className='connect-btn'>
               <button className='email-btn'>
