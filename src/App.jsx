@@ -47,10 +47,10 @@ function App() {
                 </p>
               </div>
               <div>
-                <h3>Interets</h3>
+                <h3>Interests</h3>
                 <p>
-                  Badminton, playing guitar, reading and also likes to write sometimes.
-                  I also likes to play video games. I also like to take pictures of nature.
+                  Badminton, playing guitar, reading and also likes to write sometimes,
+                  play video games and take pictures of nature.
                 </p>
               </div>
             </div>
